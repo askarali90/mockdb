@@ -2,8 +2,6 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-     { "id": 15, "title": "Post 1235" },
-     { "id": 13, "title": "Post 1125" }, 
 { "id": 112, "title": "Post 15" },
     { "id": 7, "title": "Post 7" }
   ],
