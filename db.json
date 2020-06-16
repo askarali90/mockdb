@@ -1,7 +1,11 @@
 {
   "posts": [
     { "id": 1, "title": "This to check the Data", "likes": "123" },
-    { "id": 2, "title": "Post 2","likes": "432" }   
+    { "id": 2, "title": "Post 2","likes": "432" },
+    { "id": 3, "title": "Test Data Update","likes": "102" },   
+    { "id": 4, "title": "Information Subject to... ","likes": "202" },   
+    { "id": 5, "title": "Marvellous Data approach","likes": "872" },
+    { "id": 6, "title": "Incredible data loss happened","likes": "109" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
